@@ -18,5 +18,19 @@ Node.js,NPM
 -----------
 Download node.js(includes npm) to enable your project to use powerfull pluggins such as grunt, babel...:
   -https://nodejs.org/en/download/
+  
+Grunt
+-----
+Grunt and its pluggins are node modules installed via npm.You can see : https://gruntjs.com/getting-started
+
+Install grunt CLI via the following command:
+npm install -g grunt-cli (as administrator)
+This will allow you to run grunt from anywhere you want.
+
+Now install grunt in your project:
+npm install grunt --save-dev
+The --save-dev option will add grunt as dev dependancy in the package.son file.
+
+
 
   
