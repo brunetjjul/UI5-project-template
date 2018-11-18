@@ -16,5 +16,7 @@ Your UI5 project will be available on a GIT repository, so download and install 
   
 Node.js,NPM
 -----------
+Download node.js(includes npm) to enable your project to use powerfull pluggins such as grunt, babel...:
+  -https://nodejs.org/en/download/
 
   
