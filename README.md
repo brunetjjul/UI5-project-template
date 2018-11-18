@@ -41,7 +41,7 @@ Now install grunt in your project:
 npm install grunt --save-dev
 The --save-dev option will add grunt as dev dependancy in the package.son file.
 
-Create a Grunfile.js file in the root directory
+Create a Gruntfile.js file in the root directory
 
 
 
