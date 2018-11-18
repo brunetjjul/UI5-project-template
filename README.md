@@ -43,6 +43,18 @@ The --save-dev option will add grunt as dev dependancy in the package.son file.
 
 Create a Gruntfile.js file in the root directory
 
+Grunt plugins
+-------------
+https://www.npmjs.com/package/grunt-sapui5
+npm config set @sap:registry "https://npm.sap.com" -g
+npm install grunt-sapui5 --save-dev
+
+https://www.npmjs.com/package/grunt-serve
+npm install grunt-serve --save-dev
+
+https://www.npmjs.com/package/grunt-contrib-uglify
+npm install grunt-contrib-uglify --save-dev
+
 
 
   
