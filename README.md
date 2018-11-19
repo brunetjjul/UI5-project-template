@@ -55,6 +55,14 @@ npm install grunt-serve --save-dev
 https://www.npmjs.com/package/grunt-contrib-uglify
 npm install grunt-contrib-uglify --save-dev
 
+UI5 tooling
+-----------
+https://github.com/SAP/ui5-tooling
+
+openui5-worklist-app
+openui5-masterdetail-app
+openui5-basic-template-app
+
 
 
   
